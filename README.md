@@ -26,3 +26,21 @@ This project implements a real-time object detection and tracking system using Y
 - Bounding boxes on objects
 - Object tracking with IDs
 - Processed output video
+
+# Screenshots
+
+## Project Structure
+
+```
+object-detection-tracking/
+│
+├── RPC.ipynb              # Main Google Colab notebook (detection + tracking)
+├── requirements.txt       # List of required Python libraries
+├── README.md              # Project documentation
+│
+├── outputs/               # (Generated after running project)
+│   ├── output_tracked.mp4 # Processed video with detection
+│   ├── tracking_data.csv  # Detection results
+│   └── report.html        # Generated report
+```
+
