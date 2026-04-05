@@ -1,0 +1,8 @@
+ultralytics
+opencv-python
+deep-sort-realtime
+numpy
+matplotlib
+pandas
+ipywidgets
+ffmpeg-python
