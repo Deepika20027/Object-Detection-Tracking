@@ -3,8 +3,7 @@
 
 This project implements a real-time object detection and tracking system using YOLOv8 and DeepSORT. It can detect and track multiple objects such as cars and people in video streams.
 
-# Click below to run the project directly:
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Deepika20027/Object-Detection-Tracking/blob/main/RPC.ipynb)
+
 # Features
 - Object detection using YOLOv8
 - Multi-object tracking with DeepSORT
