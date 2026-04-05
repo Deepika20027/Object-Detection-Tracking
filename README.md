@@ -36,15 +36,17 @@ This project implements a real-time object detection and tracking system using Y
 ## Project Structure
 
 ```
-object-detection-tracking/
+Object-Detection-Tracking/
 │
-├── RPC.ipynb              # Main Google Colab notebook (detection + tracking)
-├── requirements.txt       # List of required Python libraries
-├── README.md              # Project documentation
+├── src/
+│   └── main.py             
 │
-├── outputs/               # (Generated after running project)
-│   ├── output_tracked.mp4 # Processed video with detection
-│   ├── tracking_data.csv  # Detection results
-│   └── report.html        # Generated report
+├── demo/
+│   ├── demo_video.mp4       
+│   └── thumbnail.png
+│
+├── requirements.txt       
+├── README.md
+
 ```
 
