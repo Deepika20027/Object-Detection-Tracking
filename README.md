@@ -33,7 +33,7 @@ This project implements a real-time object detection and tracking system using Y
 
 ## 🎥 Demo Video
 
-[▶️ Watch Demo Video](https://github.com/Deepika20027/Object-Detection-Tracking/raw/main/download.mp4)
+[![Watch Demo](thumbnail.png)](https://github.com/Deepika20027/Object-Detection-Tracking/raw/main/download.mp4)
 
 ## Project Structure
 
